@@ -1,8 +1,9 @@
-Install all requirements
+# AI Game
 
- pip install -r requirements.txt
+## Setup Instructions
 
-Run main.py
+```bash
+pip install -r requirements.txt
+python3 main.py
 
- python3 main.py
 
